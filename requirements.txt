@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain_ollama
+pandas
+numpy
+transformers
+torch
+matplotlib 
+seaborn 
+kagglehub 
+ipywidgets 
+jupyter 
